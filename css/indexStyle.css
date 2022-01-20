@@ -14,6 +14,7 @@ background-size: cover;width: cover;
    
 }
 .navbar{
+  background-size: cover;
     overflow: hidden;
     background-color: rgba(22,31,53,0.97);
 }
@@ -95,7 +96,7 @@ background-size: cover;width: cover;
 }
 .banner1v{
    
-  width: cover;
+  background-size: cover;
     height: 350px;
 }
 
@@ -144,7 +145,7 @@ background-size: cover;width: cover;
      border-radius: 50;
   } 
   .w{
-     
+    background-size: cover;
       height: 250px;
   }
  
@@ -190,7 +191,7 @@ background-size: cover;width: cover;
   .y{
       
   height: 850px;
- 
+  background-size: cover;
   margin-top: 252px;
  
 }
@@ -245,7 +246,7 @@ background-size: cover;width: cover;
     height: 250px;
     color: #000;
  
-    width: cover;
+    background-size: cover;
 }
 
 .z2{
@@ -292,7 +293,7 @@ cursor: pointer;
    height: 450px; 
    margin-top: 175px;
  
-  
+   background-size: cover;
   
   
 }
@@ -344,6 +345,7 @@ cursor: pointer;
     position: relative;
  margin-top: 360px;
  text-align: center;
+ background-size: cover;
     
 }
 .fp{
