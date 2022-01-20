@@ -10,11 +10,11 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
-background-size: cover;width: cover;
+width: auto ;
    
 }
 .navbar{
-  background-size: cover;
+width: auto ;
     overflow: hidden;
     background-color: rgba(22,31,53,0.97);
 }
@@ -96,7 +96,7 @@ background-size: cover;width: cover;
 }
 .banner1v{
    
-  background-size: cover;
+width: auto ;
     height: 350px;
 }
 
@@ -145,7 +145,7 @@ background-size: cover;width: cover;
      border-radius: 50;
   } 
   .w{
-    background-size: cover;
+  width: auto ;
       height: 250px;
   }
  
@@ -191,7 +191,7 @@ background-size: cover;width: cover;
   .y{
       
   height: 850px;
-  background-size: cover;
+  width: auto ;
   margin-top: 252px;
  
 }
@@ -246,7 +246,7 @@ background-size: cover;width: cover;
     height: 250px;
     color: #000;
  
-    background-size: cover;
+    width: auto ;
 }
 
 .z2{
@@ -292,8 +292,7 @@ cursor: pointer;
     
    height: 450px; 
    margin-top: 175px;
- 
-   background-size: cover;
+ width: auto ;
   
   
 }
@@ -345,7 +344,7 @@ cursor: pointer;
     position: relative;
  margin-top: 360px;
  text-align: center;
- background-size: cover;
+width: auto ;
     
 }
 .fp{
@@ -363,10 +362,10 @@ cursor: pointer;
  
 }
 .channel1{
-    background-size: cover;
+  
     height: 550px;
     margin-top: 200px;
-   
+   width: auto ;
     color: black;
     background-color: white;
     position: relative;
