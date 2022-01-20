@@ -363,9 +363,10 @@ cursor: pointer;
  
 }
 .channel1{
+    background-size: cover;
     height: 550px;
     margin-top: 200px;
-    width: cover;
+   
     color: black;
     background-color: white;
     position: relative;
